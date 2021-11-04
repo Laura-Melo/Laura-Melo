@@ -1,9 +1,6 @@
-### Olá! Eu sou a Laura 👋
+### Olá! Eu sou a Laura :D Seja Bem-Vindo 👋
 
-
-  <img align="center" alt="html5" src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg" />
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laura__meloo/)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laura__meloo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gabriela-03585b1a4)
 
 
