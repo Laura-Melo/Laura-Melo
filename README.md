@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Laura e seja bem-vindo ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/laura__meloo](https://www.instagram.com/lauragbmelo/))
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gabriela-03585b1a4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/laura-gabriela-03585b1a4](https://www.linkedin.com/in/laura-melo-03585b1a4/))
 
 
 ![Laura-Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-Melo&show_icons=true&theme=radical)
